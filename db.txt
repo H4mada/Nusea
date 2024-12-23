@@ -1,0 +1,61 @@
+Porduk   {
+	1. Nama produk
+	2. Relasi ke pemilik produk
+	3. Harga Produk
+	4. Deskripsi
+	5. Kategori Produk
+}
+
+Galeri produk {
+	1. Foto
+	2. Relasi ke Produk
+}
+
+Kategori {
+	1. Katgori
+	2. Nama Kategori
+	3. Slug
+     }
+
+Cart {
+ 1. Relasi ke produk
+ 2. Relasi ke user
+
+}
+
+User {
+ 1. Alamat 1
+ 2. Alamat 2
+ 3. Provinsi https://github.com/azishapidin/indoregion
+ 4. Kota https://github.com/azishapidin/indoregion
+ 5. Kode Pos
+ 6. Negara
+ 7. No hp
+}
+
+Transaksi {
+ 1. Relasi ke user
+ 2. Jumlah Asuransi
+ 3. Ongkir
+ 4. Total
+ 5. Status Transaksi (P/S/F) 
+ 6. Resi
+}
+
+Transaksi detail {
+ 1. Relasi Ke Transaksi
+ 2. Relasi ke Produk
+ 3. Harga barang
+}
+
+
+
+
+
+
+
+
+
+
+
+
