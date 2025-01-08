@@ -24,27 +24,39 @@
                   ></li>
                   <li data-target="#storeCarousel" data-slide-to="1"></li>
                   <li data-target="#storeCarousel" data-slide-to="2"></li>
+                  <li data-target="#storeCarousel" data-slide-to="3"></li>
                 </ol>
                 <div class="carousel-inner">
                   <div class="carousel-item active">
                     <img
-                      src="/images/banner.jpg"
+                      src="/images/banner-1.png"
                       class="d-block w-100"
                       alt="Carousel Image"
+                      style="border-radius: 15px;"
                     />
                   </div>
                   <div class="carousel-item">
                     <img
-                      src="/images/banner.jpg"
+                      src="/images/banner-2.png"
                       class="d-block w-100"
                       alt="Carousel Image"
+                      style="border-radius: 15px;"
                     />
                   </div>
                   <div class="carousel-item">
                     <img
-                      src="/images/banner.jpg"
+                      src="/images/banner-3.png"
                       class="d-block w-100"
                       alt="Carousel Image"
+                      style="border-radius: 15px;"
+                    />
+                  </div>
+                  <div class="carousel-item">
+                    <img
+                      src="/images/banner-4.png"
+                      class="d-block w-100"
+                      alt="Carousel Image"
+                      style="border-radius: 15px;"
                     />
                   </div>
                 </div>
@@ -93,7 +105,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12" data-aos="fade-up">
-                        <h5>New Products</h5>
+                        <h5>Our Products</h5>
                     </div>
                 </div>
                 <div class="row">

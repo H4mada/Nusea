@@ -129,10 +129,12 @@
                       alt=""
                     />
                     <div class="media-body">
-                      <h5 class="mt-2 mb-1">Hazza Risky</h5>
-                      I thought it was not good for living room. I really happy
-                      to decided buy this product last week now feels like
-                      homey.
+                      <h5 class="mt-2 mb-1">Siti A., Jakarta</h5>
+                      Saya sangat puas dengan produk ikan segar dari Nusea!
+                      Saya memesan ikan tongkol dan udang, dan kualitasnya benar-benar luar biasa.
+                      Ikannya segar, bersih, dan sampai dengan kondisi dingin seperti baru diambil dari laut.
+                      Anak-anak saya suka sekali! Pengiriman juga cepat, dan packaging-nya rapi banget.
+                      Pasti saya akan pesan lagi. Terima kasih Nusea!
                     </div>
                   </li>
                   <li class="media my-4">
@@ -142,10 +144,11 @@
                       alt=""
                     />
                     <div class="media-body">
-                      <h5 class="mt-2 mb-1">Anna Sukkirata</h5>
-                      Color is great with the minimalist concept. Even I thought
-                      it was made by Cactus industry. I do really satisfied with
-                      this.
+                      <h5 class="mt-2 mb-1">Anna S., Bandung</h5>
+                      Saya mencoba kerang hijau dan cumi-cumi dari Nusea, dan kualitasnya sesuai ekspektasi. 
+                      Kerangnya masih segar dan dagingnya tebal. Walaupun ada sedikit delay di pengiriman karena cuaca buruk, 
+                      tim customer service-nya sangat responsif dan membantu. Overall, pengalaman belanja di Nusea memuaskan,
+                      dan saya akan merekomendasikan ke teman-teman saya.
                     </div>
                   </li>
                   <li class="media">
@@ -155,10 +158,12 @@
                       alt=""
                     />
                     <div class="media-body">
-                      <h5 class="mt-2 mb-1">Dakimu Wangi</h5>
-                      When I saw at first, it was really awesome to have with.
-                      Just let me know if there is another upcoming product like
-                      this.
+                      <h5 class="mt-2 mb-1"> Maria L., Surabaya</h5>
+                      Udang vaname dari Nusea benar-benar juara! Ukurannya besar-besar, 
+                      rasanya manis alami, dan sangat mudah diolah. Saya juga suka sekali 
+                      dengan transparansi informasi mereka tentang asal produk. Sangat cocok 
+                      untuk bisnis catering saya. Pesanan saya sampai tepat waktu dengan kemasan yang aman,
+                      sehingga kualitasnya tetap terjaga. Mantap sekali, Nusea!
                     </div>
                   </li>
                 </ul>

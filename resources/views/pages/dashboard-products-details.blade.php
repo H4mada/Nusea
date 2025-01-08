@@ -10,7 +10,7 @@
   data-aos="fade-up">
   <div class="container-fluid">
     <div class="dashboard-heading">
-      <h2 class="dashboard-title">Shirup Marzan</h2>
+      <h2 class="dashboard-title">add Product</h2>
       <p class="dashboard-subtitle">
         Product Details
       </p>

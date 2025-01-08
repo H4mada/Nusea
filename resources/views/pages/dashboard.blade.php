@@ -34,7 +34,7 @@
                 Revenue
               </div>
               <div class="dashboard-card-subtitle">
-                ${{ number_format($revenue) }}
+                Rp.{{ number_format($revenue) }}
               </div>
             </div>
           </div>

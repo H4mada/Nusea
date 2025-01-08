@@ -59,8 +59,8 @@
                         <div class="product-subtitle">by {{ $cart->product->user->store_name }}</div>
                       </td>
                       <td style="width: 35%;">
-                        <div class="product-title">${{ number_format($cart->product->price) }}</div>
-                        <div class="product-subtitle">USD</div>
+                        <div class="product-title">Rp {{ number_format($cart->product->price) }}</div>
+                        <div class="product-subtitle">IDR</div>
                       </td>
                       <td style="width: 20%;">
                         <form action="{{ route('cart-delete', $cart->id) }}" method="POST">
@@ -100,7 +100,7 @@
                       class="form-control"
                       id="address_one"
                       name="address_one"
-                      value="JL.Laut Karanganyar"
+                      value=""
                     />
                   </div>
                 </div>
@@ -112,7 +112,7 @@
                       class="form-control"
                       id="address_two"
                       name="address_two"
-                      value="RT 001/004"
+                      value=""
                     />
                   </div>
                 </div>
@@ -184,19 +184,19 @@
             </div>
             <div class="row" data-aos="fade-up" data-aos-delay="200">
               <div class="col-4 col-md-2">
-                <div class="product-title">$0</div>
+                <div class="product-title">Rp.0</div>
                 <div class="product-subtitle">Country Tax</div>
               </div>
               <div class="col-4 col-md-3">
-                <div class="product-title">$0</div>
+                <div class="product-title">Rp.0</div>
                 <div class="product-subtitle">Product Insurance</div>
               </div>
               <div class="col-4 col-md-2">
-                <div class="product-title">$0</div>
+                <div class="product-title">Rp.0</div>
                 <div class="product-subtitle">Ship to Jakarta</div>
               </div>
               <div class="col-4 col-md-2">
-                <div class="product-title text-success">${{ number_format($totalPrice ?? 0 ) }}</div>
+                <div class="product-title text-success">Rp {{ number_format((float) $totalPrice , 0, ',', '.') }}</div>
                 <div class="product-subtitle">Total</div>
               </div>
               <div class="col-8 col-md-3">
